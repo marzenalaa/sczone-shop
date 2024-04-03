@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+ul {
+  list-style: none;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.bg-primary {
+  --tw-bg-opacity: 1;
+  background-color: rgb(15 1 21 / var(--tw-bg-opacity));
+}
+.bg-purpple-gradient {
+  background: linear-gradient(121deg, #ceb0ff, #924cff, #6718d8);
+}
+.bg-purpple-gradient-2 {
+  background: linear-gradient(
+    144.39deg,
+    #f0e7ff -100.56%,
+    #b07dff -78.47%,
+    #6718d8 43.23%,
+    #5919b0 91.61%
+  );
+}
+.bg-discount-gradient {
+  background: linear-gradient(125.17deg, #b07dff 0%, #924cff 50%, #6718d8 100%);
+}
+.text-gradient {
+  background: radial-gradient(
+    64.18% 64.18% at 71.16% 35.69%,
+    #f9f4ff 0.89%,
+    #e4d3ff 16.04%,
+    #ceb0ff 38.12%,
+    #924cff 71.54%,
+    #7b29f4 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+.text-stroke {
+  -webkit-text-stroke: 2px #7b29f4;
+  -webkit-text-fill-color: transparent;
+}
+.sidebar {
+  -webkit-animation: slide-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+  animation: slide-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+@-webkit-keyframes slide-top {
+  0% {
+    -webkit-transform: translateY(100px);
+    transform: translateY(100px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@keyframes slide-top {
+  0% {
+    -webkit-transform: translateY(100px);
+    transform: translateY(100px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+.blue__gradient {
+  background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214d76 100%);
+  filter: blur(123px);
+}
+.pink__gradient {
+  background: linear-gradient(90deg, #f4c4f3 0%, #fc67fa 100%);
+  filter: blur(900px);
+}
+.white__gradient {
+  background: rgba(255, 255, 255, 0.6);
+  filter: blur(750px);
+}

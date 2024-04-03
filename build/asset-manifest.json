@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e702fdd.css",
+    "main.js": "/static/js/main.64b89fdf.js",
+    "static/media/online-shopping.png": "/static/media/online-shopping.94590471bc3f12267ee3.png",
+    "static/media/about.png": "/static/media/about.d998342b55eb7f3f644d.png",
+    "static/media/logo.svg": "/static/media/logo.62c459b8d10367919d1ce418188a0df9.svg",
+    "static/media/instagram.svg": "/static/media/instagram.c6b8cb38e27fa08147a5848badee6975.svg",
+    "static/media/Discount.svg": "/static/media/Discount.92f2d11ff7e94f5ee027a0f411f6196f.svg",
+    "static/media/feedback.svg": "/static/media/feedback.74fd92129face1592e8e815c51e8dd73.svg",
+    "index.html": "/index.html",
+    "static/media/shipping.svg": "/static/media/shipping.640d7bafd204c55e4924e704dcfaf896.svg",
+    "static/media/facebook.svg": "/static/media/facebook.d7c0b4e9ce034fb8d8f719d7fbc5fd90.svg",
+    "static/media/payment-card.svg": "/static/media/payment-card.15cae9aedb47b6d4030221929e1a411f.svg",
+    "static/media/shopping-bag.svg": "/static/media/shopping-bag.95b421b2dbc486a6f09f2780eae5b0ff.svg",
+    "static/media/design.svg": "/static/media/design.d201911d4ec2730f3a482aa9a9756305.svg",
+    "static/media/hash.svg": "/static/media/hash.f050a631747cd946425dddcef451fb9f.svg",
+    "static/media/menu.svg": "/static/media/menu.47d007568a89041c26525b6e1bb8fcde.svg",
+    "static/media/close.svg": "/static/media/close.3a4512d6afa5bf8d5451749cf23ca424.svg",
+    "main.0e702fdd.css.map": "/static/css/main.0e702fdd.css.map",
+    "main.64b89fdf.js.map": "/static/js/main.64b89fdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e702fdd.css",
+    "static/js/main.64b89fdf.js"
+  ]
+}
