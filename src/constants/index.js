@@ -103,11 +103,11 @@ export const ourOffers = [
     bgColor: "bg-cyan-500",
     features: [
       { id: "1", feature: "20,000 مشاهدة." },
-      { id: "2", feature: "5-1 أيام." },
+      { id: "2", feature: "4-1 أيام." },
       { id: "3", feature: "ضمان عدد المشاهدات والوصول." },
       { id: "4", feature: "الهدف التفاعل مع المنشور أو استقبال الرسائل." },
     ],
-    price: "2,000",
+    price: "2,200",
   },
   {
     id: "offer-2",
@@ -117,11 +117,11 @@ export const ourOffers = [
     bgColor: "bg-green-500",
     features: [
       { id: "1", feature: "30,000 مشاهدة." },
-      { id: "2", feature: "7-1 أيام." },
+      { id: "2", feature: "5-1 أيام." },
       { id: "3", feature: "ضمان عدد المشاهدات والوصول." },
       { id: "4", feature: "الهدف التفاعل مع المنشور أو استقبال الرسائل." },
     ],
-    price: "3,000",
+    price: "3,300",
   },
   {
     id: "offer-3",
@@ -130,8 +130,8 @@ export const ourOffers = [
     textColor: "text-rose-500",
     bgColor: "bg-rose-500",
     features: [
-      { id: "1", feature: "70,000 مشاهدة." },
-      { id: "2", feature: "10-1 أيام." },
+      { id: "1", feature: "50,000 مشاهدة." },
+      { id: "2", feature: "8-1 أيام." },
       { id: "3", feature: "ضمان عدد المشاهدات والوصول." },
       { id: "4", feature: "الهدف التفاعل مع المنشور أو استقبال الرسائل." },
     ],
@@ -144,12 +144,12 @@ export const ourOffers = [
     textColor: "text-slate-500",
     bgColor: "bg-slate-500",
     features: [
-      { id: "1", feature: "120,000 مشاهدة." },
-      { id: "2", feature: "15-1 أيام." },
+      { id: "1", feature: "80,000 مشاهدة." },
+      { id: "2", feature: "10-1 أيام." },
       { id: "3", feature: "ضمان عدد المشاهدات والوصول." },
       { id: "4", feature: "الهدف التفاعل مع المنشور أو استقبال الرسائل." },
     ],
-    price: "6,500",
+    price: "7,000",
   },
   {
     id: "offer-5",
@@ -158,12 +158,12 @@ export const ourOffers = [
     textColor: "text-amber-500",
     bgColor: "bg-amber-500",
     features: [
-      { id: "1", feature: "160,000 مشاهدة." },
-      { id: "2", feature: "21-1 أيام." },
+      { id: "1", feature: "120,000 مشاهدة." },
+      { id: "2", feature: "15-1 أيام." },
       { id: "3", feature: "ضمان عدد المشاهدات والوصول." },
       { id: "4", feature: "الهدف التفاعل مع المنشور أو استقبال الرسائل." },
     ],
-    price: "8,500",
+    price: "9,000",
   },
   {
     id: "offer-6",
@@ -172,12 +172,12 @@ export const ourOffers = [
     textColor: "text-violet-500",
     bgColor: "bg-violet-500",
     features: [
-      { id: "1", feature: "250,000 مشاهدة." },
-      { id: "2", feature: "30-1 أيام." },
+      { id: "1", feature: "200,000 مشاهدة." },
+      { id: "2", feature: "20-1 أيام." },
       { id: "3", feature: "ضمان عدد المشاهدات والوصول." },
       { id: "4", feature: "الهدف التفاعل مع المنشور أو استقبال الرسائل." },
     ],
-    price: "12,000",
+    price: "12,500",
   },
 ];
 
